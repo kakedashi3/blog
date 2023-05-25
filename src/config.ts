@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
+  website: "https://blog-xi-rouge.vercel.app/",
+  author: "Kakedashi",
   desc: "A minimal, responsive and SEO-friendly Kakedashi blog theme.",
   title: "KakedashiPaper",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "kakedashi-blog.png",
   lightAndDarkMode: true,
   postPerPage: 5,
 };

@@ -1,8 +1,8 @@
 ---
-author: Sat Naing
+author: Kakedashi
 pubDatetime: 2023-05-25T18:12:00Z
-title: kakedashi test 1.0
-postSlug: kakedashi test 1.0
+title: Kakedashi Test
+postSlug: kakedashi-test
 featured: true
 ogImage: ""
 tags:
